@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prof-Koech
+- 👋 Hi, I’m KENNEDY KIPLANGAT
 - 👀 I’m interested in software engineering with enthusiasm in ML,AI,computer vision
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me kiplangatkennedy019@gmail.com /+254714224922
